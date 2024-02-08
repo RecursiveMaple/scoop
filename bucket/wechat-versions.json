@@ -1,13 +1,12 @@
 {
-    "version": "not-spicified",
+    "version": "3.9.9.35",
     "description": "Archived versions of wechat from https://github.com/tom-snow/wechat-windows-versions/releases, type 'scoop install wechat-versions@<version>' to install a specific version.",
     "homepage": "https://pc.weixin.qq.com/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.wechat.com/en/service_terms.html"
     },
-    "url": "https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.9.5.91/WeChatSetup-3.9.5.91.exe#/dl.7z",
-
+    "url": "https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.9.9.35/WeChatSetup-3.9.9.35.exe#/dl.7z",
     "installer": {
         "script": [
             "Remove-Item \"$dir\\`$*\", \"$dir\\Uninst*\" -Force -Recurse",
@@ -33,9 +32,7 @@
             "Remove-ItemProperty -Path \"HKCU:Software\\Tencent\\WeChat\" -Name \"FileSavePath\" -Force | Out-Null"
         ]
     },
-    "persist": [
-        "WeChat Files"
-    ],
+    "persist": "WeChat Files",
     "checkver": {
         "url": "https://github.com/tom-snow/wechat-windows-versions",
         "regex": "Wechat v([\\d.]+)"
