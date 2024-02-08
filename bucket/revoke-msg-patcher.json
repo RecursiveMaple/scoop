@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "url": "https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/1.6/RevokeMsgPatcher.v1.6.zip",
     "hash": "001aedccb59ec9e9067d0703ba0ba9f8e1454159dd7aa4fa9f82c0f9b9a57428",
-    "extract_dir": "RevokeMsgPatcher",
+    "extract_dir": "RevokeMsgPatcher.v$version",
     "shortcuts": [
         [
             "RevokeMsgPatcher.exe",
@@ -18,6 +18,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/$version/RevokeMsgPatcher.v$version.zip"
+        "url": "https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/$version/RevokeMsgPatcher.v$version.zip",
+        "extract_dir": "RevokeMsgPatcher.v$version"
     }
 }
