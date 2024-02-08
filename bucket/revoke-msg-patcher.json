@@ -9,11 +9,11 @@
     "shortcuts": [
         [
             "RevokeMsgPatcher.exe",
-            "RevokeMsgPatcher/RevokeMsgPatcher"
+            "RevokeMsgPatcher\\RevokeMsgPatcher"
         ],
         [
             "RevokeMsgPatcher.MultiInstance.exe",
-            "RevokeMsgPatcher/MultiInstance"
+            "RevokeMsgPatcher\\MultiInstance"
         ]
     ],
     "checkver": "github",
