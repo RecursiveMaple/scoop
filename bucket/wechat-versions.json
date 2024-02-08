@@ -1,13 +1,13 @@
 {
-    "version": "3.9.7.29",
+    "version": "3.9.9.35",
     "description": "Archived versions of wechat from https://github.com/tom-snow/wechat-windows-versions/releases, type 'scoop install wechat-versions@<version>' to install a specific version.",
     "homepage": "https://pc.weixin.qq.com/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.wechat.com/en/service_terms.html"
     },
-    "url": "https://github.com/tom-snow/wechat-windows-versions/releases/download/3.9.7.29/WeChatSetup-3.9.7.29.exe#/dl.7z",
-    "hash": "bf1f0a79013b1f253ef47a606e20ab636cae80a8aa42c3ab4f01f0b40893a5d0",
+    "url": "https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.9.9.35/WeChatSetup-3.9.9.35.exe#/dl.7z",
+    "hash": "001aedccb59ec9e9067d0703ba0ba9f8e1454159dd7aa4fa9f82c0f9b9a57428",
     "installer": {
         "script": [
             "Remove-Item \"$dir\\`$*\", \"$dir\\Uninst*\" -Force -Recurse",
