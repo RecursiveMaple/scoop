@@ -1,6 +1,6 @@
 {
     "version": "not-spicified",
-    "description": "all versions of wechat archived by github@tom-snow, type 'scoop install wechat@version' to install a specific version",
+    "description": "Archived versions of wechat from https://github.com/tom-snow/wechat-windows-versions/releases, type 'scoop install wechat-versions@<version>' to install a specific version.",
     "homepage": "https://pc.weixin.qq.com/",
     "license": {
         "identifier": "Proprietary",
