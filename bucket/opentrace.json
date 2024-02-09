@@ -1,0 +1,21 @@
+{
+    "version": "1.1",
+    "description": "OpenTrace is a cross-platform GUI wrapper for NextTrace. Bringing you a sense of familiarity.",
+    "homepage": "https://github.com/Archeb/opentrace",
+    "license": "GPL-3.0",
+    "suggest": {
+        "NextTrace": "extras/nexttrace"
+    },
+    "url": "https://github.com/Archeb/opentrace/releases/download/v1.4.2.1/win-x64.zip",
+    "hash": "e317a8697fc496972fa2b3cbaa2f7712ca663d82e99f67b359f25c959ef62302",
+    "shortcuts": [
+        [
+            "OpenTrace.exe",
+            "OpenTrace"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/Archeb/opentrace/releases/download/v$version/win-x64.zip"
+    }
+}
