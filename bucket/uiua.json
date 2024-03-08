@@ -11,6 +11,7 @@
             "uiua"
         ]
     ],
+    "env_add_path": true,
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/uiua-lang/uiua/releases/download/$version/uiua-bin-x86_64-pc-windows-msvc.zip"
