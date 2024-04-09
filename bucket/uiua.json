@@ -1,10 +1,10 @@
 {
-    "version": "0.10.1",
+    "version": "0.10.2",
     "description": "Uiua (pronounced \"wee-wuh\") is a stack-based array programming language.",
     "homepage": "https://github.com/uiua-lang/uiua",
     "license": "MIT",
-    "url": "https://github.com/uiua-lang/uiua/releases/download/0.10.1/uiua-bin-x86_64-pc-windows-msvc.zip",
-    "hash": "c33ff65614f998c393eae1576dd8928af0fd8838dff917ff975c418189deab75",
+    "url": "https://github.com/uiua-lang/uiua/releases/download/0.10.2/uiua-bin-x86_64-pc-windows-msvc.zip",
+    "hash": "7004e2a3a3267624995926d03c9aad8d2dd0dadff11e56129859b397f1effadc",
     "bin": [
         [
             "uiua.exe",
