@@ -11,6 +11,7 @@
             "widecar"
         ]
     ],
+    "env_add_path": true,
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ClassicOldSong/Widecar/releases/download/v$version/widecar.exe"
