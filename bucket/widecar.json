@@ -1,10 +1,10 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Widecar is a tiny helper designed to enhance your streaming experience with Sunshine by automatically managing virtual screens.",
     "homepage": "https://github.com/ClassicOldSong/Widecar",
     "license": "MIT",
-    "url": "https://github.com/ClassicOldSong/Widecar/releases/download/v0.0.1/widecar.exe",
-    "hash": "7cb389190217ed991e7eb8fefe9bfd0d285edf057cd2e1825e44b4ffd4a6b8f2",
+    "url": "https://github.com/ClassicOldSong/Widecar/releases/download/v0.0.2/widecar.exe",
+    "hash": "f21568940ccb76ffe053368f1cbf4b1aa4ea1a5ec85692e76f13f1a506f08fe4",
     "shortcuts": [
         [
             "widecar.exe",
