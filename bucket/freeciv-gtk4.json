@@ -1,10 +1,10 @@
 {
-    "version": "0.0.0",
+    "version": "3.1.5",
     "description": "Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.",
     "homepage": "http://www.freeciv.org/",
     "license": "GPL-2.0-or-later",
-    "url": "http://files.freeciv.org/packages/windows/Freeciv-0.0.0-msys2-win64-10-gtk4-setup.exe#/freeciv.7z",
-    "hash": "c21fdb7dfc75946821e0b4588ea8bcfbeb0f74fd47d87008852b169b8cb3b414",
+    "url": "http://files.freeciv.org/packages/windows/Freeciv-3.1.5-msys2-win64-10-gtk4-setup.exe#/freeciv.7z",
+    "hash": "9acd5d4d88e3acc30da4c2517247c250bf5628d470f168e229265a746bc422f9",
     "shortcuts": [
         [
             "freeciv-gtk4.exe",
